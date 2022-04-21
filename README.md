@@ -1,2 +1,4 @@
 # hello-world
-My firts Repository
+Soy NicolaS
+Vivo en Buenos Aires
+Localidad Tristan Suarez
